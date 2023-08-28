@@ -1,0 +1,1 @@
+CREATE SCHEMA IF NOT EXISTS "proyect_to_do_list_db";
